@@ -19,3 +19,7 @@ How to use pydoc to document your application.
 1. git clone 
 2. cd into repository
 3. pydoc program
+
+##Screenshots:
+    Screenshots of both the terminal and the html version of the documentation
+    can be found in the img directory. 
