@@ -2,7 +2,7 @@
 How to use pydoc to document your application.
 
 
-##Basic Usage:
+## Basic Usage:
 * pydoc -h
     * This command will provide you with      
 
@@ -15,11 +15,11 @@ How to use pydoc to document your application.
     * Note: The html is UGLY! 
       
       
-##Test it Out:
+## Test it Out:
 1. git clone 
 2. cd into repository
 3. pydoc program
 
-##Screenshots:
+## Screenshots:
     Screenshots of both the terminal and the html version of the documentation
     can be found in the img directory. 
